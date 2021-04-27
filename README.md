@@ -6,7 +6,7 @@ On Heroku: https://jpa03-bill-zhang.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-skiteskopes
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-skiteskopes/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-skiteskopes)
 
 
 ## Integrations
